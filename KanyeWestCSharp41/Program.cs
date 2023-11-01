@@ -40,4 +40,3 @@ for (int i = 1; i <= 5; i++)
 
 //Build the api URL using theprovised params you chose along with the apiKey instead of your actual key
 //Build an api url from where the call comes from
-//var apiUrl =
